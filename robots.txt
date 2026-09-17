@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bjdqkn.github.io/sitemap.xml
